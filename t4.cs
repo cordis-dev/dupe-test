@@ -1,4 +1,4 @@
-    public class t4
+    public class t4 
     {
         public void M()
         {
