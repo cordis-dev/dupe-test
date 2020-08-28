@@ -1,0 +1,6 @@
+# duplication threshold [10 - 100]
+MinLineCount: 14
+
+# files/patterns to exclude
+IgnorePatterns:
+  - file_name_example.css
