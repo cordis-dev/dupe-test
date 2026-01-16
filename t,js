@@ -1,4 +1,2 @@
-if (!!a)
-{
- // TODO: resolve
+if (foo) {
 }
