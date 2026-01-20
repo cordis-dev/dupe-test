@@ -4,3 +4,4 @@ MinLineCount: 14
 # files/patterns to exclude
 IgnorePatterns:
   - t.js
+  - src\**
