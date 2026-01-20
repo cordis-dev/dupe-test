@@ -3,10 +3,4 @@ MinLineCount: 14
 
 # files/patterns to exclude
 IgnorePatterns:
-  - coverage\**
-  - scripts\**
-  - node_modules\**
-  - test\**
-  - loaderio\**
-  - .husky\**
-  - *.json
+  - t.js
